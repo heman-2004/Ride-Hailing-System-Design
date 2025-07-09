@@ -24,4 +24,12 @@ A multithreaded C++ project simulating a basic ride-hailing service using core O
 ---
 
 ## 📂 File Structure
-
+RideHailingSystem/
+├── main.cpp
+├── Passenger.h
+├── Driver.h
+├── Ride.h
+├── RideManager.h
+├── Logger.h
+├── Strategy.h
+├── VehicleFactory.h
